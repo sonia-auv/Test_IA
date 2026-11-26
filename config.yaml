@@ -1,0 +1,27 @@
+detection_tester:
+  subscriber_timeout: 5.0
+  response_timeout: 5.0
+
+comparator:
+  color:
+    green: "\x1b[32m"
+    yellow: "\x1b[33m"
+    red: "\x1b[31m"
+    reset: "\x1b[0m"
+  tolerance: 5
+  fields:
+    class_name: 'cls'
+    distance: 'dist'
+    top_left_x: 'tl_x'
+    top_left_y: 'tl_y'
+    top_right_x: 'tr_x'
+    top_right_y: 'tr_y'
+    bottom_left_x: 'bl_x'
+    bottom_left_y: 'bl_y'
+    bottom_right_x: 'br_x'
+    bottom_right_y: 'br_y'
+
+labeled_image:
+  images_dir: "images"
+  csv_dir: "results"
+  extensions: ['.png', '.jpg', '.jpeg']

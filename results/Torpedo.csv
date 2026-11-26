@@ -1,0 +1,5 @@
+class_name,distance,top_left_x,top_left_y,top_right_x,top_right_y,bottom_left_x,bottom_left_y,bottom_right_x,bottom_right_y
+FIRE,60.0,428.0,28.0,428.0,254.0,639.0,28.0,639.0,254.0
+FIRE TRUCK,60.0,1045.0,40.0,1045.0,345.0,1434.0,40.0,1434.0,345.0
+AMBULANCE,60.0,197.0,696.0,197.0,1051.0,697.0,696.0,697.0,1051.0
+WATER,60.0,1187.0,487.0,1187.0,775.0,1414.0,487.0,1414.0,775.0

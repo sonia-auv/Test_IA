@@ -1,0 +1,5 @@
+class_name,distance,top_left_x,top_left_y,top_right_x,top_right_y,bottom_left_x,bottom_left_y,bottom_right_x,bottom_right_y
+TOOLS,60.0,737.0,313.0,737.0,397.0,824.0,313.0,824.0,397.0
+COMPAS,60.0,669.0,245.0,669.0,326.0,750.0,245.0,750.0,326.0
+LIFE PRESERVER,60.0,568.0,250.0,568.0,331.0,653.0,250.0,653.0,331.0
+SOS,60.0,491.0,309.0,491.0,395.0,579.0,309.0,579.0,395.0
